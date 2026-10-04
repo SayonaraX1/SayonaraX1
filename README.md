@@ -17,11 +17,13 @@ I like turning repetitive technical work into fast, visual and recoverable workf
 | Project | Focus |
 |---|---|
 | **PolarisHub** | Developer console, navigation and operational control |
-| **ORION** | Knowledge core, recovery and continuity |
+| **Command Center** | Knowledge core, recovery and continuity |
 | **WidgetX** | Desktop widgets and device state |
 | **AxFlowZ** | Workflow visualization and tooling |
 | **zAgent** | Local support/operations tooling |
 | **DCL-Launcher / DCL-Bridge** | Local developer connectivity and helper tooling |
+
+POLARIS is the umbrella presentation for this ecosystem. Its architecture, visual identity and presentation notes are consolidated in [`POLARIS.md`](POLARIS.md).
 
 Most repositories are private while they are actively evolving.
 
